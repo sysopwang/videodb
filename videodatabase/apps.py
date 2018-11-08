@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class VideodatabaseConfig(AppConfig):
-    name = 'videodatabase'
+class App01Config(AppConfig):
+    name = 'app01'
